@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Kayque! Dev student from Brazil.
 
-  - 🌱 I’m currently studying Systems Development.
+   🌱 I’m currently studying Systems Development.
 
 </p>
 
