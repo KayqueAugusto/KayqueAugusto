@@ -61,7 +61,8 @@
 <br>
 
 <!-- GIF -->
-![Atajos de teclado](https://github.com/user-attachments/assets/6b865f0d-349d-4c8e-aa9d-b0e362c1e364) 
+![Atajos de teclado](https://github.com/user-attachments/assets/623c38f6-b398-4f55-87fb-01de6689462c)
+
 <div align="center">
 <img src="[https://github.com/user-attachments/assets/6b865f0d-349d-4c8e-aa9d-b0e362c1e364" width="2000" />
 </div>
