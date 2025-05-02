@@ -55,7 +55,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [HTML -  Gerenciamento-hotel]([https://github.com/KayqueAugusto/Hotel-html)
+- [HTML -  Gerenciamento-hotel](https://github.com/KayqueAugusto/Hotel-html)
 - [HTML -  CosturaLink](https://github.com/KayqueAugusto/Costura)
 - [HTML -  Food-Truck](https://github.com/KayqueAugusto/Food-Truck-manager)
 <br>
