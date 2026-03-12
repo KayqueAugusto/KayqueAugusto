@@ -55,7 +55,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-[HTML -  Trampo](https://github.com/KayqueAugusto/trampo)
+- [HTML -  Trampo](https://github.com/KayqueAugusto/trampo)
+- [HTML -  ConectaLutas](https://github.com/ConectaLutas)
+- [HTML -  plataforma-delivery-fullstack](https://github.com/KayqueAugusto/plataforma-delivery-fullstack)
 - [HTML -  Projeto_Plataforma_Campeonato](https://github.com/KayqueAugusto/Projeto_Plataforma_Campeonato)
 - [HTML -  Gerenciamento-hotel](https://github.com/KayqueAugusto/Estacionamento)
 - [HTML -  Campeonato de Jiu-Jtsu](https://github.com/KayqueAugusto/Projeto_Plataforma_Campeonato/tree/master)
