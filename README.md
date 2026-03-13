@@ -18,7 +18,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 25 years old, currently living in Brazil. I have basic in English and have experience with C, C++, Dart, Flutter, SQL, Python, Java, Html, CSS, JavaScript.
+  - 💬 I am 26 years old, currently living in Brazil. I have basic in English and have experience with C, C++, Dart, Flutter, SQL, Python, Java, Html, CSS, JavaScript.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
