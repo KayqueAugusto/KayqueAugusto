@@ -96,6 +96,12 @@ Além dos projetos em destaque, mantenho outros projetos e estudos no GitHub env
   />
 </p>
 
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="190" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="190" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+</p>
 
 ---
 
