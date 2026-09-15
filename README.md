@@ -77,7 +77,7 @@ Além dos projetos em destaque, mantenho outros projetos e estudos no GitHub env
 
 ---
 
----
+
 
 ### 📊 Estatísticas
 
@@ -86,7 +86,6 @@ Além dos projetos em destaque, mantenho outros projetos e estudos no GitHub env
   <img height="190" src="./profile/top-langs.svg" alt="Tecnologias mais utilizadas" />
 </p>
 
----
 
 ---
 
