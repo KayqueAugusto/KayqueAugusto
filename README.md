@@ -9,7 +9,7 @@ Desenvolvo projetos voltados a aplicações web, automação e dados.
 
 <br>
 
-<a href="https://www.linkedin.com/in/kayque-augusto-921231186/">
+<a href="https://www.linkedin.com/in/kayque-milhome-921231186/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -100,7 +100,7 @@ Além dos projetos em destaque, mantenho outros projetos e estudos no GitHub env
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/kayque-augusto-921231186/">
+<a href="https://www.linkedin.com/in/kayque-milhome-921231186/">
   <img src="https://img.shields.io/badge/LinkedIn-Kayque_Augusto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
