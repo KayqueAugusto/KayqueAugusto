@@ -77,31 +77,16 @@ Além dos projetos em destaque, mantenho outros projetos e estudos no GitHub env
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=KayqueAugusto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueAugusto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+---
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="190" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="190" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+  <img height="190" src="./profile/stats.svg" alt="Estatísticas do GitHub de Kayque Augusto" />
+  <img height="190" src="./profile/top-langs.svg" alt="Tecnologias mais utilizadas" />
 </p>
+
+---
 
 ---
 
