@@ -29,7 +29,7 @@ Plataforma web para **gerenciamento de projetos, tarefas, equipes e atividades**
 
 **Tecnologias:** `Vue.js` `TypeScript` `JavaScript` `Git`
 
-🌐 **[Ver aplicação](https://taskflow-9kgl.onrender.com/login)** &nbsp;&nbsp; 💻 **[Ver código](LINK-DO-REPOSITORIO)**
+🌐 **[Ver aplicação](https://taskflow-9kgl.onrender.com/login)** &nbsp;&nbsp; 💻 **[Ver código](https://github.com/KayqueAugusto/TaskFlow)**
 
 ---
 
